@@ -1,6 +1,6 @@
 # Angelplayer 发布仓库
 
-这里是 Angelplayer 的公开下载站：**只发安装包，不含源码**。
+这里是 Angelplayer 的公开下载站。
 
 ## 下载
 
